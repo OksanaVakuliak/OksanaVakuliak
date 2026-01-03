@@ -99,7 +99,7 @@ Description: A personal note management application built with modern frontend t
 
 ## 📫 How to reach me
 
-- LinkedIn: [add link](https://www.linkedin.com/in/oksana-vakuliak/)  
+- [LinkedIn](https://www.linkedin.com/in/oksana-vakuliak/)  
 - Email: oksanabagrova19@gmail.com  
 
 ---
