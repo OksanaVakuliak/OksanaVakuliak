@@ -26,7 +26,9 @@ Git • GitHub • Vite • Trello • Agile / Scrum
 
 ### **ArtistsHub**
 Team project
+
 Technologies: HTML, CSS, JavaScript, Vite
+
 Role: Developer
 
 Description: A web platform for showcasing artists and collecting user feedback, featuring dynamic data loading and interactive UI elements.
@@ -44,7 +46,9 @@ Description: A web platform for showcasing artists and collecting user feedback,
 
 ### **EduConf**
 Team project
+
 Technologies: HTML, CSS, JavaScript, Vite
+
 Role: Scrum Master, Developer
 
 Description: A conference website designed to present event information and schedules in a clear and structured way.
@@ -61,7 +65,9 @@ Description: A conference website designed to present event information and sche
 
 ### **NoteHub**
 Individual project
+
 Technologies: Vite, React, TypeScript, Vercel
+
 Role: Developer
 
 Description: A personal note management application built with modern frontend tools.
