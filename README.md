@@ -89,6 +89,12 @@ Description: A personal note management application built with modern frontend t
 
 ---
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OksanaVakuliak&theme=flat&row=1&column=6)
+
+---
+
 ## 🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
@@ -106,9 +112,6 @@ Description: A personal note management application built with modern frontend t
 
 ⭐ Feel free to explore my repositories and projects!
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OksanaVakuliak)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **OksanaVakuliak/OksanaVakuliak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
