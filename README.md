@@ -89,17 +89,11 @@ Description: A personal note management application built with modern frontend t
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OksanaVakuliak&theme=flat&row=1&column=6)
-
----
-
 ## 🗣️ Languages
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 ![Polish](https://img.shields.io/badge/Polish-B1-red?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ---
 
