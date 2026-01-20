@@ -1,4 +1,4 @@
-##<div align="center"> 👋 Hi, I'm Oksana Vakuliak</div>
+## 👋 Hi, I'm Oksana Vakuliak
 
 ### 🚀 Junior FullStack Developer | JavaScript | TypeScript | React | Nexst.js | Node.js
 
