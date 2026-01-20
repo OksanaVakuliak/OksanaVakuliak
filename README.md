@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Oksana Vakuliak
 
-### 🚀 Junior Full Stack Developer | JavaScript | React | TypeScript | Node.js
+### 🚀 Junior FullStack Developer | JavaScript | React | TypeScript | Node.js
 
 Junior Full Stack Developer with hands-on experience in JavaScript, React, TypeScript, and Node.js.  
 Focused on building web applications with adaptive layouts, working with APIs, and collaborating in team-based environments.  
@@ -66,20 +66,21 @@ Description: A conference website designed to present event information and sche
 ### **NoteHub**
 Individual project
 
-Technologies: Vite, React, TypeScript, Vercel
+**Technologies:** Next.js 16, TypeScript, Zustand, TanStack Query, Axios, Yup
 
-Role: Developer
+**Role:** Developer
 
-Description: A personal note management application built with modern frontend tools.
+**Description:** A professional-grade private notes management system featuring advanced server-side authentication and real-time state synchronization.
 
 **My contribution:**
-- Implemented functionality for creating, deleting, and viewing notes  
-- Managed application state using React `useState`  
-- Worked with **server-side data storage**  
-- Used **TypeScript interfaces and types** to ensure type safety  
-- Built the project with **Vite** for fast development and builds  
+- Implemented a **secure authentication flow** using JWT stored.
+- Developed **Next.js Middleware** for server-side route protection and automatic **Silent Token Refresh**.
+- Managed complex global state using **Zustand** for auth status and UI consistency.
+- Integrated **TanStack Query (React Query)** for efficient data fetching, caching, and optimistic updates.
+- Built dynamic CRUD functionality with search, **debounced filtering**, and tag-based organization.
+- Architected a clean API layer using **Axios interceptors** and TypeScript interfaces for full type safety.
 
-🔗 [GitHub](https://github.com/OksanaVakuliak/05-notehub) | [Live Demo](https://05-notehub-neon-ten.vercel.app/)
+🔗 [GitHub](https://github.com/OksanaVakuliak/09-auth) | [Live Demo](https://09-auth-one-roan.vercel.app/)
 
 ---
 
