@@ -83,6 +83,27 @@ Description: A personal note management application built with modern frontend t
 
 ---
 
+### **Simply Chocolate**
+Individual project
+
+Technologies: HTML, CSS, JavaScript, Swiper.js, Vite
+
+Role: Developer
+
+Description: A modern landing page for a craft chocolate company, focused on precise adaptive design and smooth interactive elements.
+
+**My contribution:**
+- Developed the entire project from scratch, ensuring high-quality semantic markup and styling
+- Implemented **adaptive layouts** for Mobile (320px+), Tablet (768px+), and Desktop (1200px+)
+- Configured and custom-styled **Swiper.js** for product carousels and customer reviews
+- Resolved complex layout challenges related to **overlapping UI elements** and container overflow
+- Implemented client-side **form validation** using Regular Expressions (RegEx) for user inputs
+- Set up a professional build and deployment pipeline using **Vite** and **gh-pages**
+
+🔗 [GitHub](https://github.com/OksanaVakuliak/simply-chocolate) | [Live Demo](https://oksanavakuliak.github.io/simply-chocolate/)
+
+---
+
 ## 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OksanaVakuliak&theme=tokyo-day)
