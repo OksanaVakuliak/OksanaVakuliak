@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Oksana Vakuliak
+<div align="center">## 👋 Hi, I'm Oksana Vakuliak</div>
 
-### 🚀 Junior FullStack Developer | JavaScript | React | TypeScript | Node.js
+### 🚀 Junior FullStack Developer | JavaScript | TypeScript | React | Nexst.js | Node.js
 
 Junior Full Stack Developer with hands-on experience in JavaScript, React, TypeScript, and Node.js.  
 Focused on building web applications with adaptive layouts, working with APIs, and collaborating in team-based environments.  
