@@ -56,22 +56,20 @@ Description: A web platform for showcasing artists and collecting user feedback,
 
 ---
 
-### **EduConf**
-Team project
+### **ExpenseTracker**
 
-Technologies: HTML, CSS, JavaScript, Vite
+**Team project** **Technologies:** Next.js 16, TypeScript, Zustand, TanStack Query, Axios, Mantine UI, Recharts, Formik/React Hook Form, Yup.  
+**Role:** Developer  
 
-Role: Scrum Master, Developer
-
-Description: A conference website designed to present event information and schedules in a clear and structured way.
+**Description:** A comprehensive financial management dashboard designed for tracking personal expenses and incomes with real-time data visualization and detailed transaction history.
 
 **My contribution:**
-- Developed the **Schedule section** using semantic HTML and adaptive CSS layout  
-- Focused on layout structure and consistency across screen sizes  
-- Took the role of **Scrum Master**, supporting task coordination and team communication  
-- Participated in team collaboration through code reviews and regular sync meetings  
+- **Transaction Management:** Developed complex forms for creating and editing transactions using **Formik** and **Yup**, ensuring strict data validation and a seamless UX.
+- **State & Persistence:** Engineered a **Zustand** store with persistence middleware to manage global currency settings and a **Local Storage drafting system** for data recovery.
+- **Custom UI/UX:** Architected specialized **DatePicker** and **TimePicker** components using **Mantine UI**, customized for specific project requirements.
+- **Data Layer:** Integrated **Axios** for API communication and **TanStack Query** for efficient caching and optimized server-state management.
 
-🔗 [GitHub](https://github.com/Vladymyr-89-Nester/EduConf) | [Live Demo](https://vladymyr-89-nester.github.io/EduConf/)
+🔗 [GitHub](https://github.com/Vonels/expense-tracker) | [Live Demo](https://expense-tracker-sigma-tan.vercel.app/)
 
 ---
 
