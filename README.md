@@ -37,13 +37,14 @@ Git • GitHub • Vite • Trello • Agile / Scrum
 ## 💻 Featured Projects
 
 ### **ArtistsHub**
-Team project
 
-Technologies: HTML, CSS, JavaScript, Vite
+**Team project**
 
-Role: Developer
+**Technologies:** HTML, CSS, JavaScript, Vite
 
-Description: A web platform for showcasing artists and collecting user feedback, featuring dynamic data loading and interactive UI elements.
+**Role:** Developer
+
+**Description:** A web platform for showcasing artists and collecting user feedback, featuring dynamic data loading and interactive UI elements.
 
 **My contribution:**
 - Developed the **Feedback section** with data fetching from a server using Axios  
@@ -58,7 +59,10 @@ Description: A web platform for showcasing artists and collecting user feedback,
 
 ### **ExpenseTracker**
 
-**Team project** **Technologies:** Next.js 16, TypeScript, Zustand, TanStack Query, Axios, Mantine UI, Recharts, Formik/React Hook Form, Yup.  
+**Team project** 
+
+**Technologies:** Next.js 16, TypeScript, Zustand, TanStack Query, Axios, Mantine UI, Recharts, Formik/React Hook Form, Yup.  
+
 **Role:** Developer  
 
 **Description:** A comprehensive financial management dashboard designed for tracking personal expenses and incomes with real-time data visualization and detailed transaction history.
@@ -74,7 +78,8 @@ Description: A web platform for showcasing artists and collecting user feedback,
 ---
 
 ### **NoteHub**
-Individual project
+
+**Individual project**
 
 **Technologies:** Next.js 16, TypeScript, Zustand, TanStack Query, Axios, Yup
 
@@ -95,13 +100,14 @@ Individual project
 ---
 
 ### **Simply Chocolate**
-Individual project
 
-Technologies: HTML, CSS, JavaScript, Swiper.js, Vite
+**Individual project**
 
-Role: Developer
+**Technologies:** HTML, CSS, JavaScript, Swiper.js, Vite
 
-Description: A modern landing page for a craft chocolate company, focused on precise adaptive design and smooth interactive elements.
+**Role:** Developer
+
+**Description:** A modern landing page for a craft chocolate company, focused on precise adaptive design and smooth interactive elements.
 
 **My contribution:**
 - Developed the entire project from scratch, ensuring high-quality semantic markup and styling
