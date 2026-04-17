@@ -36,6 +36,26 @@ Git • GitHub • Vite • Trello • Agile / Scrum
 
 ## 💻 Featured Projects
 
+### **Pryrodni Mandry**
+
+**Team project**
+
+**Technologies:** Next.js 16, React 19, TypeScript, Node.js, Express, MongoDB, TanStack Query, Zustand, Axios, Cloudinary.
+
+**Role:** Team Lead
+
+**Description:** A full-stack platform designed to promote eco-tourism in Ukraine, featuring a secure authentication system, media management, and a high-performance interactive UI.
+
+**My contribution:**
+- Led the development team using Kanban methodology; managed tasks via GitHub Projects, performed comprehensive code reviews, and ensured project deadlines were met.
+- Architected both frontend and backend structures, implementing a secure JWT-based authentication system with httpOnly cookies.
+- Developed comprehensive API documentation using Swagger, facilitating clear communication and testing for the development team.
+- Managed the end-to-end development lifecycle, resolving technical bottlenecks and ensuring the final MVP met all functional requirements.
+
+🔗 [Frontend GitHub](https://github.com/OksanaVakuliak/pryrodni-mandry-front) | [Backend GitHub](https://github.com/OksanaVakuliak/pryrodni-mandry-back) | [Live Demo](https://pryrodni-mandry-front.vercel.app/)
+
+---
+
 ### **ArtistsHub**
 
 **Team project**
